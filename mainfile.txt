@@ -1,2 +1,7 @@
 import mymodule
 mymodule.a("Tom", "Good Evening")
+
+#modules
+import math
+print(math.sin(1))
+print(math.pi)
